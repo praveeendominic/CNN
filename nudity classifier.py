@@ -131,7 +131,7 @@ print(train_data.class_indices)
 
 print(trained_model.predict(test_image)[0][0])
 
-
+print()
 
 
 
